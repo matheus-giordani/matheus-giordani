@@ -1,5 +1,5 @@
 ## Hi there 👋
->Academic in Computer Science at the Federal University of Alagoas, currently working in the area of software development and technological solutions.
+>My name is Matheus Giordani and I am an Academic in Computer Science at the Federal University of Alagoas, currently working in the area of software development and technological solutions.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -22,7 +22,6 @@
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=2bbc8a) -->
 
